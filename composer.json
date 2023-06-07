@@ -18,7 +18,8 @@
             "iamhery\\export\\": ""
         },
         "files": [
-            "libraries/tbs/tbs_class.php"
+            "libraries/tbs/tbs_class.php",
+            "libraries/tbs/plugins/tbs_plugin_opentbs.php"
         ]
     }
 }
